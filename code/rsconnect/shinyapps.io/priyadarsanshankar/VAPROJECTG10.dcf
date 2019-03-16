@@ -1,0 +1,13 @@
+name: VAPROJECTG10
+title: VAPROJECTG10
+username:
+account: priyadarsanshankar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 400602
+bundleId: 1541799
+url: https://priyadarsanshankar.shinyapps.io/VAPROJECTG10/
+when: 1534597480.13488
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: dependencies.R
