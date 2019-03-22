@@ -160,7 +160,6 @@ Developers and coders would be required to install a list of packages used in th
 
 #### 7 ANNEX – LIST OF PACKAGES USED
 		
-S/N	Name of Package	
 1	rgdal<br>
 2	geojsonio	<br>
 3	shiny	<br>
