@@ -1,5 +1,9 @@
 # Voice integrated Visual Analysis of Global Migration
 
+Project page and app overview - https://wiki.smu.edu.sg/1718t3isss608/Group10_Overview
+
+Voice controlled R Shiny app - https://priyadarsanshankar.shinyapps.io/VAPROJECTG10/
+
 ### Abstract
 With the world shrinking by the day with technology and humans being more than ever ready to scale distances in quests to follow a career path or to escape political persecution and war or in search of better quality of life or to be closer to family or friends, Migration and the resulting ethnic and racial diversity are amongst the most emotive subjects in contemporary societies. In recent times, the political salience of migration has strongly increased due to uproar of natives and other factors. For origin societies, the departure of people raises concern about the 'brain drain' on the one hand. For receiving societies, the settlement of migrant groups and the formation of ethnic minorities can fundamentally change the social, cultural, economic dimensions and cause lack of resources for the natives.
 Using R’s geospatial and quadrant analysis techniques, we aimed to delve into the migrant numbers data over the years from country to country conjoined with the remittances according to the world bank by them to the origin locations. Migration and remittance numbers will be analysed grouping the locations on continent, region and socio-economic status scales to identify relations between the factors separating the dominating and the dominated societies. A balance model was applied to analyze the migration flows between countries of the same development level.
