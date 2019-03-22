@@ -141,17 +141,13 @@ Figure 15 Bar chart for migrant stock numbers
 
 #### 6	INSTALLATION AND USER GUIDE
 
-Online users would be able to find our application at the following
+Online users would be able to find the application at the following
 website: https://wiki.smu.edu.sg/1718t3isss608/Group10_Application
 
 Simply click through the tabs to look at the different levels of
 analysis provided in our application.
 
-Developers and coders would be required to install a list of packages used in our analysis for the application to run in your R/R Studio environment. The list of packages is available in Annex.
-
-#### ACKNOWLEDGMENTS
-
-The authors wish to thank Dr Kam Tin Seong for his guidance on analytical techniques and R packages that may be used and feedback on visualisation techniques. The authors would also like to thank Tal Ater for Annyang and SpeechKITT JS libraries, Johan Sundström for the geojson file for the country polygons.
+Developers and coders would be required to install a list of packages used in the analysis for the application to run in your R/R Studio environment. The list of packages is available in Annex.
 
 #### REFERENCES
 [1]	World GeoJSON johan/world.geo.json. https://github.com/johan/world.geo.json (2018). <br>
