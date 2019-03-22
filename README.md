@@ -142,21 +142,25 @@ Figure 15 Bar chart for migrant stock numbers
 #### 6	INSTALLATION AND USER GUIDE
 
 Online users would be able to find our application at the following
-website:
-https://wiki.smu.edu.sg/1718t3isss608/Group10_Application
+website: https://wiki.smu.edu.sg/1718t3isss608/Group10_Application
+
 Simply click through the tabs to look at the different levels of
 analysis provided in our application.
-Developers and coders would be required to install a list of packages used in our analysis for the application to run in your R/R Studio environment. The list of packages is available in Annex B.
-ACKNOWLEDGMENTS
+
+Developers and coders would be required to install a list of packages used in our analysis for the application to run in your R/R Studio environment. The list of packages is available in Annex.
+
+#### ACKNOWLEDGMENTS
+
 The authors wish to thank Dr Kam Tin Seong for his guidance on analytical techniques and R packages that may be used and feedback on visualisation techniques. The authors would also like to thank Tal Ater for Annyang and SpeechKITT JS libraries, Johan Sundström for the geojson file for the country polygons.
-REFERENCES
-[1]	World GeoJSON johan/world.geo.json. https://github.com/johan/world.geo.json (2018). 
-[2]	Speech KITT GUI for Speech Recognition. TalAter/SpeechKITT. https://github.com/TalAter/SpeechKITT (2018). 
-[3]	Annyang Javascript library for Speech recognition. https://github.com/TalAter/annyang (2018).
-[4]	Nogle, J. (1994). The Systems Approach to International Migration: An Application of Network Analysis Methods. International Migration, 32(2), 329-342. doi: 10.1111/j.1468-2435.1994.tb00156.x
-[5]	Bertocchi, G., & Strozzi, C. (2007). The age of mass migration. London: Centre for Economic Policy Research.
-[6]	Castles, S., & Miller, M. J. (1998). The age of migration: International population movements in the modern world. New York: Guilford Press.
-Gheasi, M., & Nijkamp, P. (2017). A Brief Overview of International Migration Motives and Impacts, with Specific Reference to FDI. Economies, 5(3), 31.
+
+#### REFERENCES
+[1]	World GeoJSON johan/world.geo.json. https://github.com/johan/world.geo.json (2018). <br>
+[2]	Speech KITT GUI for Speech Recognition. TalAter/SpeechKITT. https://github.com/TalAter/SpeechKITT (2018). <br>
+[3]	Annyang Javascript library for Speech recognition. https://github.com/TalAter/annyang (2018).<br>
+[4]	Nogle, J. (1994). The Systems Approach to International Migration: An Application of Network Analysis Methods. International Migration, 32(2), 329-342. doi: 10.1111/j.1468-2435.1994.tb00156.x<br>
+[5]	Bertocchi, G., & Strozzi, C. (2007). The age of mass migration. London: Centre for Economic Policy Research.<br>
+[6]	Castles, S., & Miller, M. J. (1998). The age of migration: International population movements in the modern world. New York: Guilford Press.<br>
+[7]	Gheasi, M., & Nijkamp, P. (2017). A Brief Overview of International Migration Motives and Impacts, with Specific Reference to FDI. Economies, 5(3), 31.
 
 #### 7 ANNEX – LIST OF PACKAGES USED
 		
